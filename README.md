@@ -19,6 +19,9 @@ This is a C# desktop application developed for Grifindo Toys to manage toy inven
 2. Build and run the solution
 3. Use the app to manage toy data
 
+## 🖼️ Demo
+![Screenshot](https://github.com/abdul-rahman23/grifindo-toys/blob/main/ss03.png)
+
 ## 👤 Developer
 **Abdul Rahman**  
 BSc (Hons) Information Systems  
